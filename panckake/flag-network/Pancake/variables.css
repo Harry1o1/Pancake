@@ -1,4 +1,4 @@
-:root{
+/* :root{
     
     --icon-color:hsla(217, 0%, 0%, 1);
     --glass-bg:rgba(255, 255, 255, 0.3);
@@ -7,7 +7,7 @@
     --primary1o1-bg:hsla(233, 0%, 100%, 1);
     --sidebar-bg:hsla(217, 0%, 100%, 1);
     --best-bg:hsla(217, 0%, 96%, 1);
-    /* --modal-bg: #F4F7FF; */
+    --modal-bg: #F4F7FF;
     
     --border-color: 1px solid #EAEAEA;
     --border-color-1o1: 1px solid #EAEAEA;
@@ -18,7 +18,11 @@
     --pancake-bg:#FFFFFF;
     
 
-}
+} */
+
+
+
+
 body.dark{
     
     --glass-bg:rgba(0, 0, 0, 0.26);

@@ -126,6 +126,16 @@
     min-height: 50px !important;
     
 }
+#int-btn2{
+    
+    background: #00FF1C !important;
+}
+
+#int-btn1{
+    
+    border: 1px solid #00FF1C;
+}
+
 
 
 
@@ -223,6 +233,15 @@
     min-width: 300px;
     height: 250px;
     
+}
+
+
+.navbar-right{
+    
+    
+    position: fixed;
+    right: 0;
+    top: 0;
 }
 
 @media(min-width:900px){
