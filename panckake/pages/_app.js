@@ -1,4 +1,4 @@
-import '../flag-network/pancake/style.css'
+import '../flag-network/Pancake/style.css'
 import { MoralisProvider } from "react-moralis";
 import Layout from '../components/layout'
 
