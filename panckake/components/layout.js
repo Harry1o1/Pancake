@@ -293,12 +293,6 @@ export default function Layout({ children }) {
           </ul>
         </div>
       </li>
-      <li className="pnt-li" id="pnt-li2">
-        <div id="pnt-it2" className="pnt-it">
-          <ion-icon name="logo-google" />
-        </div>
-        {/* <Image srcset="../public/Google.png" src="../public/Google.png" alt="../public/Google.png"> */}
-      </li>
       
       
       
@@ -595,7 +589,7 @@ export default function Layout({ children }) {
       />
       
       <Script
-        src="https://cdn.jsdelivr.net/gh/Harry1o1/Demo1o1/nextjs/flag-network/pancake/main1o6.js"
+        src="https://cdn.jsdelivr.net/gh/Harry1o1/Pancake/nextjs/flag-network/pancake/main1o6.js"
         strategy="beforeInteractive"
       />
       
