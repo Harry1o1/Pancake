@@ -24,6 +24,8 @@
     
     
     display: none;
+    /* height: 100vh; */
+    width: 100%;
     /* height: 1000vh; */
     /* max-height: 1000px; */
     /* min-width: 1000px; */
@@ -253,7 +255,7 @@
         
         /* background: red; */
         
-        /* height: 300px !important; */
+        /* height: 300bpx !important; */
         min-height: 400px !important;
         /* max-height: 300px !important; */
         
