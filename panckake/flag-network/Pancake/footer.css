@@ -50,14 +50,18 @@ footer ul{
 #main-link4 li,#main-link2 li{
     
     display: flex;
-    justify-content: right;
+    /* justify-content: right; */
+    align-items: center;
+    justify-content: center;
     
 }
 #main-link1 li,#main-link3 li{
     
     display: flex;
     /* align-items: center; */
-    justify-content: left;
+    /* justify-content: left; */
+    justify-content: center;
+    align-items: center;
     
 }
 
