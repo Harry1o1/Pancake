@@ -1,6 +1,6 @@
 @import url(./variables.css);
 
-#pnt-it1 ion-icon[name="close-outline"],#pnt-it5 ion-icon[name="moon-outline"]{
+#pnt-it1 ion-icon[name="close-outline"],#pnt-it5 ion-icon[name="sunny-outline"]{
     display: none;
 }
 
@@ -84,10 +84,10 @@
 }
 
 
-#pnt-it5.active ion-icon[name="sunny-outline"]{
+#pnt-it5.active ion-icon[name="moon-outline"]{
     display: none;
 }
-#pnt-it5.active ion-icon[name="moon-outline"]{
+#pnt-it5.active ion-icon[name="sunny-outline"]{
     display: block;
 }
 

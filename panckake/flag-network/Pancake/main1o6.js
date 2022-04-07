@@ -169,13 +169,24 @@ st_tg6.addEventListener('click', (e) => {
 
 
 
-
 light.addEventListener('click', () => {
     // console.log('op');
     light.classList.toggle('active');
-    body.classList.toggle('dark');
+    // body.classList.toggle('dark');
+    // body.classList.remove('dark');
+    body.classList.toggle('light');
+    
+    // if(body.classList.contains('light')){
+        
+    //     // body.classList.('dark');
+    //     body.classList.replace('light','dark');
+        
+    // }
+    // body.classList.replace('dark','light');
+    
 
 })
+
 login_toggler.addEventListener('click', () => {
     // console.log('op');
     login_container.classList.add('active');
